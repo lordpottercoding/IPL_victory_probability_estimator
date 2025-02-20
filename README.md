@@ -20,7 +20,7 @@ The **IPL Victory Probability Estimator** is a machine-learning-based web applic
 ## **Installation & Setup**
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/IPL-Win-Predictor.git
+git clone https://github.com/lordpottercoding/IPL-Win-Predictor.git
 cd IPL-Win-Predictor
 ```
 
